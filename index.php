@@ -28,6 +28,7 @@
   <div class="text-center">
     <h1>Here is Bootstrap TagsInput</h1>
     <h2>1 more thing</h2>
+    <h2>2 more thing</h2>
   </div>
 
   <div class="form-group">
