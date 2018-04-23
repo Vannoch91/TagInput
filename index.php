@@ -27,6 +27,7 @@
 <div class="col-md-8 col-md-offset-2">
   <div class="text-center">
     <h1>Here is Bootstrap TagsInput</h1>
+    <h2>1 more thing</h2>
   </div>
 
   <div class="form-group">
