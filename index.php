@@ -28,7 +28,11 @@
   <div class="text-center">
     <h1>Here is Bootstrap TagsInput</h1>
     <h2>1 more thing</h2>
+<<<<<<< HEAD
     <h4>3 more thing</h4>
+=======
+    <h2>2 more thing</h2>
+>>>>>>> 9d89d86a0b232ab0e844b8521fd3971435776668
   </div>
 
   <div class="form-group">
